@@ -12,3 +12,4 @@ See [LICENSE.md](LICENSE.md) for details.
 
 # Authors
 * Jack Normand
+* Jaron Bauers
